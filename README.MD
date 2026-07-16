@@ -59,4 +59,7 @@ This exercise helped me understand how to move from ER diagram to relational tab
 ---
 
 ## Conclusion
-The database is now structured and can be used to manage hotels, rooms, categories, and employees in a simple way.
+The database is now structured and can be used to manage hotels, rooms, categories, and employees in a simple way. 
+
+## Author
+**Godfred APPIAH BAAH**
